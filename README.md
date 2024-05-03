@@ -19,4 +19,4 @@ Now it's time to bring your ideas to life! Start implementing your redesign usin
 With about 10-15 minutes left, each team will present their redesigned website to the class. After each presentation, there will be an opportunity for constructive feedback from both peers and the instructor. Take this opportunity to learn from each other and improve your skills.
 
 6. Winner Announcement:
-Finally, the winning team will be announced based on criteria such as creativity, functionality, and adherence to design principles. There may even be a small prize for the winners to make it more exciting!
+Finally, the winning team will be announced based on criteria such as creativity, functionality, and adherence to design principles. There will be a small prize for the winners to make it more exciting!
