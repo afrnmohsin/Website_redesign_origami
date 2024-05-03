@@ -1,4 +1,4 @@
-Website Redesign Challenge - 60min challenge
+-Website Redesign Challenge - 60min challenge
 
 Introduction:
 Welcome, students! In this exciting team activity, you'll have the opportunity to showcase your HTML and CSS skills while working collaboratively with your peers. The goal is to redesign a simple website, focusing on design principles, user experience, and creativity. Let's dive in!
